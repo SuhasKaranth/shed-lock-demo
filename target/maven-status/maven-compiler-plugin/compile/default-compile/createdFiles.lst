@@ -1,7 +1,0 @@
-com/scheduler/job/SmsRecord.class
-com/scheduler/config/SchedulerConfig.class
-com/scheduler/job/SmsRecordService.class
-com/scheduler/SchedulerApplication.class
-com/scheduler/job/MyScheduler.class
-com/scheduler/job/SmsRecordRepository.class
-com/scheduler/job/SmsRecord$SmsRecordBuilder.class
